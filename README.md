@@ -1,4 +1,7 @@
 # PR72
+
+Réalisation d'une base de donnée en c++ dans le cadre de l'unité d'enseignement PR72
+
 Création ou ouverture d’une base de données :
 ./main -d [nom_de_la_base] -l /path/path/
 
